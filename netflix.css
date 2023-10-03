@@ -1,0 +1,298 @@
+.page1{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/9db4a880-3034-4e98-bdea-5d983e86bf52/b5953637-091d-4e02-9754-2bfadc8a8f7c/IN-en-20230925-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-size:cover;
+    height:700px;
+
+}
+
+.netfbar{
+height:100px;
+display: flex;  
+}
+
+.netlogo{
+    background-image: url("https://images.ctfassets.net/y2ske730sjqp/821Wg4N9hJD8vs5FBcCGg/9eaf66123397cc61be14e40174123c40/Vector__3_.svg?w=460");
+    background size:cover;
+    height : 80px;
+   width : 305px;
+    margin-left : 50px;
+    margin-top:20px;
+}
+
+.english{
+    height:35px;
+    width:140px;
+    margin-left: 700px;
+    margin-top: 20px;
+    background-color: rgb(12, 12, 12);
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-radius: 5px;
+  color:white;
+  display: flex;
+  text-align: center;
+  font-size: medium;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sign{
+    height: 35px;
+    width: 90px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: rgb(193, 17, 25);
+    color: white;
+    border: 1px;
+    border-color: aliceblue;
+    border-radius:5px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    font-size: 16px;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.sign:hover{
+   background-color: rgb(116, 7, 7);
+}
+
+
+#text1{
+    color: rgb(255, 255, 255);
+    height:70px;
+    font-family:fantasy;
+    font-weight: 800px;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+#text2{
+    margin-top: 0%;
+    color: rgb(255,255,255);
+    height: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: xx-large;
+    align-items: center;
+    text-align: center;
+}
+ 
+#text3{
+    margin-top: 15px;
+    color: rgb(255,255,255);
+    height: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size:25px;
+    text-align: center;
+    margin-top: 25px;
+}
+.search-in{
+
+    border-color: rgb(255, 255, 255);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+.searchget{
+    height:60px;
+    display: flex;
+    margin-top: 20px;
+
+}
+.search{
+    font-size: larger;
+    height:60px;
+    width:300px;
+    background-color: rgb(12, 12, 12);
+    text-align:left;
+    color: aliceblue;
+    border-color: rgb(12, 12, 12); 
+    margin-right:10px;
+    margin-left: 500px;
+    border-color: aliceblue;
+    border-width: 1px;
+}
+
+.get{
+    color: white;
+    height:60px;
+    width:200px;
+    text-align: center;
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    background-color: rgb(193, 17, 25);
+   margin-right: 50px;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+}
+.get:hover{
+    background-color:rgb(121, 3, 3); 
+}
+,search:active{
+    text-align: upleft;
+    font-size: small;
+}
+
+.page{
+ 
+    height: 500px;
+    background-color: black;
+    display: flex;
+}
+.gap{
+    height: 10px;
+   background-color: rgb(53, 52, 52);
+}
+
+.t1{
+    height:80px;
+    width: 500px;
+    padding-top: 150px;
+    margin-left: 200px;
+    color: white;
+    font-size:45px;
+    font-weight: 900px;
+    font-family:cursive;
+}
+.t2{
+    height:150px;
+    width: 600px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600px;
+    font-family: cursive;
+    padding-left: 200px;
+    padding-top:10px;
+}
+
+.imgp2{
+    height: 350px;
+    width: 470px;
+    background-size: cover;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png");
+margin-left: 150px;
+margin-top: 50px;
+}
+
+.imgp3{
+    height: 400px;
+    width: 390px;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg");
+    background-size: cover;
+}
+
+.t3{
+    height:80px;
+    width: 500px;
+    color: white;
+    font-size: 45px;
+    font-weight: 900px;
+    font-family:cursive;
+    padding-left: 250px;
+    margin-top: 120px;
+}
+
+.t4{
+    height:70px;
+    width: 650px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600px;
+    font-family: cursive;
+    padding-left: 250px;
+    padding-top: 55px;
+
+}
+
+.imgp4{
+    margin-top: 50px;
+    margin-left: 120px;
+    height: 350px;
+    width: 470px;
+    background-size: cover;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png")
+   
+}
+
+.imgp5{
+    height:400px;
+    width: 450px;
+    background-image: url("https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABVr8nYuAg0xDpXDv0VI9HUoH7r2aGp4TKRCsKNQrMwxzTtr-NlwOHeS8bCI2oeZddmu3nMYr3j9MjYhHyjBASb1FaOGYZNYvPBCL.png?r=54d");
+    background-size: cover;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.pagee{
+    height: 850px;
+    background-color: black;
+}
+
+#TQ{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 35px;
+    font-weight: 900px;
+    font-family:cursive;
+    color: white;
+    text-align: center;
+   
+}
+.faq{
+    height: 82px;
+    width: 1150px;
+    background-color: rgb(53, 53, 53);
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 25px;
+    color: white;
+    display: flex;
+   align-items: center;
+   padding-left: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.faq:hover{
+background-color: rgb(78, 80, 80);
+}
+
+.a1{ 
+    margin-top: 20px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-right: 50px;
+    /* height: 400px;
+    width: 300px; */
+    text-align: center;
+    font-size: larger;
+    color: rgb(153, 153, 153);
+    display: flex;
+}
+
+ul a{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
